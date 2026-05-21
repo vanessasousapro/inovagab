@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#1A237E">
+    android:background="@color/background">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -12,21 +12,28 @@
         android:padding="32dp"
         android:gravity="center">
 
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="64dp"
+            android:src="@drawable/logo_inovagab"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="InovaGAB"
-            android:textSize="32sp"
-            android:textColor="#FFFFFF"
+            android:text="INOVAGAB"
+            android:textSize="28sp"
+            android:textColor="@color/primary"
             android:textStyle="bold"
-            android:layout_marginTop="64dp"/>
+            android:letterSpacing="0.1"
+            android:layout_marginTop="16dp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Plataforma de Inovação Corporativa"
-            android:textSize="14sp"
-            android:textColor="#90CAF9"
+            android:textSize="13sp"
+            android:textColor="@color/text_secondary"
             android:layout_marginTop="4dp"
             android:layout_marginBottom="48dp"/>
 
@@ -63,6 +70,7 @@
 
         <Button
             android:id="@+id/btnEntrar"
+            style="@style/InovaGAB.Button"
             android:layout_width="match_parent"
             android:layout_height="56dp"
             android:text="ENTRAR"
@@ -72,7 +80,7 @@
             android:id="@+id/tvErro"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#EF9A9A"
+            android:textColor="@color/error"
             android:textSize="14sp"
             android:layout_marginBottom="48dp"
             android:visibility="gone"/>
