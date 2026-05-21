@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_orientacoes"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Orientações"/>
+
+    <item
+        android:id="@+id/nav_nova_ideia"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Nova Ideia"/>
+
+    <item
+        android:id="@+id/nav_minhas_ideias"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Minhas Ideias"/>
+
+</menu>
