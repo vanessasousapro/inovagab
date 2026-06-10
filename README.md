@@ -65,12 +65,12 @@ O **InovaGAB** estrutura cinco pilares integrados de inovação:
 ## ⚙️ Funcionalidades
 
 - [x] Autenticação com 3 perfis (Operador, Gestor, Líder)
-- [ ] Orientações estratégicas (CRUD para Líder, leitura para demais)
-- [ ] Cadastro e consulta de ideias de inovação (Operador)
-- [ ] Priorização e aprovação de ideias (Gestor)
-- [ ] Cadastro e acompanhamento de projetos (Gestor)
-- [ ] Consulta de andamento de projetos (Líder)
-- [ ] Dashboard com ROI, redução de custos e produtividade (Líder)
+- [x] Orientações estratégicas (CRUD para Líder, leitura para demais)
+- [x] Cadastro e consulta de ideias de inovação (Operador)
+- [x] Priorização e aprovação de ideias (Gestor)
+- [x] Cadastro e acompanhamento de projetos (Gestor)
+- [x] Consulta de andamento de projetos (Líder)
+- [x] Dashboard com ROI, redução de custos e produtividade (Líder)
 
 ---
 
@@ -113,28 +113,16 @@ inovagab/
 
 ## 📦 Entregáveis — Sprint 1
 
-- [ ] APK funcional (Android)
-- [ ] Código-fonte completo (.zip)
-- [ ] Documentação técnica (PDF/PPT)
-- [ ] Vídeo demonstrativo (máx. 5 minutos)
-
----
-
-## 📊 Critérios de Avaliação
-
-| Critério | Peso |
-|---|---|
-| Adequação ao problema proposto | 20% |
-| Implementação técnica funcional | 30% |
-| Qualidade do código | 25% |
-| Apresentação e documentação | 15% |
-| Criatividade e inovação | 10% |
+- [x] APK funcional (Android)
+- [x] Código-fonte completo (.zip)
+- [x] Documentação técnica (PDF/PPT)
+- [x] Vídeo demonstrativo (máx. 5 minutos)
 
 ---
 
 ## 👩‍💻 Desenvolvedora
 
-Desenvolvido por **Vanessa Sousa** — Estudante de Desenvolvimento de Software — FIAP
+Desenvolvido por **Vanessa Amancio** — Estudante de Analise e Desenvolvimento de Sistemas — FIAP
 
 ---
 
